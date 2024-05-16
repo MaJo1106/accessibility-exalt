@@ -70,7 +70,7 @@ const ValidationContainer = styled.p`
 
 function App() {
   const [answer, setAnswer] = useState();
-  const [tries, setTries] = useState(3);
+  const [tries, setTries] = useState(2);
   const [buttonAvailable, setButtonAvailable] = useState(true);
   const [error, setError] = useState();
   const [validationMessage, setValidationMessage] = useState();
