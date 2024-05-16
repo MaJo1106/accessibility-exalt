@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/accessibility-exalt/static/css/main.f855e6bc.css",
-    "main.js": "/accessibility-exalt/static/js/main.fe6ce612.js",
-    "static/media/estacion_montange.png": "/accessibility-exalt/static/media/estacion_montange.91794da7bb7dc5aa778f.png",
+    "main.js": "/accessibility-exalt/static/js/main.f898bc0c.js",
+    "static/media/estacion_montange.png": "/accessibility-exalt/static/media/estacion_montange.e8291342f6bc3f078832.png",
     "index.html": "/accessibility-exalt/index.html",
     "main.f855e6bc.css.map": "/accessibility-exalt/static/css/main.f855e6bc.css.map",
-    "main.fe6ce612.js.map": "/accessibility-exalt/static/js/main.fe6ce612.js.map"
+    "main.f898bc0c.js.map": "/accessibility-exalt/static/js/main.f898bc0c.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fe6ce612.js"
+    "static/js/main.f898bc0c.js"
   ]
 }
