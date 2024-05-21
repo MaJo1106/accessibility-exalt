@@ -99,7 +99,7 @@ function App() {
 
   return (
     <Wrapper>
-      <Title>Saissez la station pour passer à l'étape suivante</Title>
+      <Title>Saisissez la saison pour passer à l'étape suivante</Title>
       <Container>
         <InformationContainer onSubmit={handleSubmit}>
           <h2>Entrez votre réponse</h2>
